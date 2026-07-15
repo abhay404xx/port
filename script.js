@@ -29,7 +29,7 @@
       title: 'Promotional Video',
       category: 'promo',
       categoryLabel: 'Promotional Videos',
-      image: 'images/promo1.png',
+      image: 'promo thumbnail.jpeg',
       video: 'lv_0_20260715085802(1).mp4',
       type: 'video',
     },
