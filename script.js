@@ -30,7 +30,7 @@
       category: 'promo',
       categoryLabel: 'Promotional Videos',
       image: 'images/promo1.png',
-      video: 'videos/promo.mp4',
+      video: 'lv_0_20260715085802 (1).mp4',
       type: 'video',
     },
     {
